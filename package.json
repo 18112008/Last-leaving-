@@ -1,0 +1,12 @@
+{
+  "name": "messenger-command-bot",
+  "version": "1.0.0",
+  "description": "Messenger command bot using fca-unofficial",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "fca-unofficial": "^2.0.0"
+  }
+}
